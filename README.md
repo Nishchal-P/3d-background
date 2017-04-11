@@ -2,6 +2,10 @@
 easy to create coolest background using flat-surface-shader
 
 #  really easy to use! You only need 3 minute to learn how to use
+# [demo1]  [demo2]  [demo3]
+[demo1]:<https://a49666.github.io/coolest-background/example/example1.html>
+[demo2]:<https://a49666.github.io/coolest-background/example/example2.html>
+[demo3]:<https://a49666.github.io/coolest-background/example/example3.html>
 
   - # step1
   Introducing  the script to your page
