@@ -1,6 +1,4 @@
-# coolest-background
-easy to create coolest background using flat-surface-shader
-
+# cool lowpoly  avtive 3d background using canvas/webgl/svg in web
 #  really easy to use! You only need 3 minute to learn how to use
 # [demo1]  [demo2]  [demo3]
 [demo1]:<https://a49666.github.io/coolest-background/example/example1.html>
