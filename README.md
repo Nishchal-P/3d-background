@@ -1,19 +1,15 @@
-#  really easy to use! You only need 3 minute to learn how to use
 # [demo1]  [demo2]  [demo3]
-[demo1]:<https://a49666.github.io/coolest-background/example/example1.html>
-[demo2]:<https://a49666.github.io/coolest-background/example/example2.html>
-[demo3]:<https://a49666.github.io/coolest-background/example/example3.html>
+[demo1]:<https://a49666.github.io/3d-background/example/example1.html>
+[demo2]:<https://a49666.github.io/3d-background/example/example2.html>
+[demo3]:<https://a49666.github.io/3d-background/example/example3.html>
 
-  - # step1
-  Introducing  the script to your page
+
+Introducing  the script to your page
 ```sh
    <script src="[???]/coolestBackground.min.js"></script>
 ```
-  If you are using es6 ,webpack ,react or etc. ,just add one sentence in the script
-```sh
-  export {coolestBackground}
-```
-- # step2 
+
+
   set css like this:
 ```sh
   #example{
@@ -26,7 +22,7 @@
 ```sh
 <script>coolestBackground(document.getElementById('example'))</script>
 ```
-- # step3 -open the html and enjoy the amazing effect
+
 #  API
 - size and postion are setted by css
 ```sh
