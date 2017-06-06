@@ -4,23 +4,14 @@
 [demo3]:<https://a49666.github.io/3d-background/example/example3.html>
 
 
-Introducing  the script to your page
-```sh
-   <script src="[???]/coolestBackground.min.js"></script>
-```
 
-
-  set css like this:
+css 
 ```sh
   #example{
   position:absoulte;
   width:100%;
   height:100%;
   }
-```
-  and in your script
-```sh
-<script>coolestBackground(document.getElementById('example'))</script>
 ```
 
 #  API
