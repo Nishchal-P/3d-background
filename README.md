@@ -26,7 +26,6 @@ Introducing  the script to your page
 #  API
 - size and postion are setted by css
 ```sh
-coolestBackground(dom[,config])
 config: {
     mode:{
         display: ['canvas'|'svg'|'webgl'], 
