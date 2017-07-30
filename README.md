@@ -1,19 +1,11 @@
-# coolest-background
-easy to create coolest background using flat-surface-shader
+# [demo1]  [demo2]  [demo3]
+[demo1]:<https://a49666.github.io/3d-background/example/example1.html>
+[demo2]:<https://a49666.github.io/3d-background/example/example2.html>
+[demo3]:<https://a49666.github.io/3d-background/example/example3.html>
 
-#  really easy to use! You only need 3 minute to learn how to use
 
-  - # step1
-  Introducing  the script to your page
-```sh
-   <script src="[???]/coolestBackground.min.js"></script>
-```
-  If you are using es6 ,webpack ,react or etc. ,just add one sentence in the script
-```sh
-  export {coolestBackground}
-```
-- # step2 
-  set css like this:
+
+css 
 ```sh
   #example{
   position:absoulte;
@@ -21,15 +13,10 @@ easy to create coolest background using flat-surface-shader
   height:100%;
   }
 ```
-  and in your script
-```sh
-<script>coolestBackground(document.getElementById('example'))</script>
-```
-- # step3 -open the html and enjoy the amazing effect
+
 #  API
 - size and postion are setted by css
 ```sh
-coolestBackground(dom[,config])
 config: {
     mode:{
         display: ['canvas'|'svg'|'webgl'], 

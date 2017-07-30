@@ -1,4 +1,4 @@
-function coolestBackground(s_container,config){
+function tdBackground(s_container,config){
     var FSS=FSSinit();
     var c_output=document.createElement('div');
     s_container.appendChild(c_output);
